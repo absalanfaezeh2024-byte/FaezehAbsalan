@@ -1,0 +1,54 @@
+GPA conversion notes — Faezeh Absalan
+
+These are unofficial, credit-weighted estimates using McGill University's
+published conversion scale for Iran, rather than a linear scaling of the
+overall average. They are not a WES evaluation or a receiving university's
+official determination.
+
+Source:
+https://www.mcgill.ca/gradapplicants/how-apply/you-apply-mcgill/equivalency
+
+Formula: sum(course credits * converted grade points) / sum(graded credits).
+Incomplete thesis registrations and semester withdrawals are not counted as
+additional graded courses. The completed seven-credit thesis is counted once.
+
+MSc, graduate scale (12 pass):
+18 to 20 -> 4; 15 to less than 18 -> 3; 12 to less than 15 -> 2;
+below 12 -> 0.
+22 credits at 4 + 9 credits at 3 = 115 grade points / 31 credits.
+GPA = 3.70967742, displayed 3.71 / 4.0.
+The 9 credits in the 3-point band are Immunopathology and Immunotherapy
+(2 credits, grade 16.50) and the thesis (7 credits, grade 17.87).
+Original transcript CGPA: 18.82 / 20.
+
+BSc, undergraduate scale (10 pass):
+16 to 20 -> 4; 14 to less than 16 -> 3; 12 to less than 14 -> 2;
+10 to less than 12 -> 1; below 10 -> 0.
+109 credits at 4 + 23 at 3 + 7 at 2 + 2 at 1 = 521 / 141 credits.
+GPA = 3.69503546, displayed 3.70 / 4.0.
+Original transcript CGPA: 16.99 / 20; 141 effective credits.
+
+BSc courses below the 4-point band (course / credits / original grade):
+Anatomy (Theoretical) / 2 / 15.19
+Pre-University English Language / 3 / 15.50
+General English Language (I) / 4 / 15.30
+Hematology Lab (I) / 2 / 11.00
+Medical Biochemistry (I) / 3 / 15.10
+Hematology (I) / 3 / 14.25
+Semi-Professional English Language (II) / 4 / 12.00
+Medical Genetics / 1 / 13.70
+Medical Bacteriology Lab / 1 / 14.60
+Laboratory Safety and Protection Principles / 1 / 15.75
+General Pathology / 2 / 15.50
+Immunohematology Lab / 1 / 15.50
+Introduction to Internal Diseases / 2 / 15.00
+Technical Principles and Maintenance of Laboratory Equipment / 1 / 15.25
+Medical Mycology / 2 / 13.45
+
+The English transcript prints two credits for Parasitology Lab (I), but its
+grade-point total and semester credit sum indicate one effective credit.
+The calculation uses the official total of 141 effective credits. Using the
+literal row total of 142 instead changes the result to 3.69718310, which
+also rounds to 3.70. This discrepancy does not change the displayed result.
+
+Receiving institutions can use different conversion rules and exclusions.

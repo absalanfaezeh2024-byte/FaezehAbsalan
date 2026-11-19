@@ -1,0 +1,21 @@
+Review publication metadata checked 18 November 2026.
+
+1. Circular RNAs as central regulators of metabolic reprogramming and immune responses in the breast cancer microenvironment: A comprehensive review.
+Authors: Sherafat NS, Mardi A, Absalan F, Mehmandar-Oskuie A.
+Biomedicine & Pharmacotherapy. 2025;193:118682. Online 31 October 2025.
+DOI: 10.1016/j.biopha.2025.118682
+PubMed: https://pubmed.ncbi.nlm.nih.gov/41175594/
+
+2. Towards precision oncology in pancreatic cancer: Diagnostic and prognostic biomarkers from conventional methods to liquid biopsy and artificial intelligence-based approaches.
+Authors: Maghsoodi N, Ameri M, Absalan F, Esmaeili M, Ramezani A.
+Biochemical and Biophysical Research Communications. 2026;842:154848.
+Published online 6 November 2026; journal issue date 3 December 2026.
+DOI: 10.1016/j.bbrc.2026.154848
+PubMed: https://pubmed.ncbi.nlm.nih.gov/43002872/
+
+3. Salivary-based protein and RNA biomarkers as early diagnostic Alzheimer's and Parkinson's disease.
+Authors: Basirat M, Absalan F, Moshtaghiyan MS, Moayedfard Z, Ramezani A, Alimohammadi A, Maghsoodi N.
+Biochemistry and Biophysics Reports. December 2026;48:102894.
+DOI: 10.1016/j.bbrep.2026.102894
+ORCID work: https://pub.orcid.org/v3.0/0009-0002-9619-0568/work/233422274
+Crossref: https://api.crossref.org/works/10.1016/j.bbrep.2026.102894
